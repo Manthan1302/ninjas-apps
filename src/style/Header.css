@@ -1,0 +1,16 @@
+.div{
+    background-color: darkslategrey;
+    color:whitesmoke;
+    padding: 5px;
+    display: flex;
+}
+
+.img{
+    border-radius: 250px;
+    margin-left: 450px;
+   
+}
+h1{
+    margin-left: 50px;
+    margin-top: 60px;
+}

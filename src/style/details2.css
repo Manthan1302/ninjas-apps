@@ -1,0 +1,17 @@
+.d2-div1{
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    width: 50%;
+    padding: 1px;
+}
+.d2-flex{
+    display: flex;
+}
+.d2-div2{
+    margin-top: 180px;
+    background-color: hotpink;
+    color: whitesmoke;
+    text-align: center;
+    width: 50%;
+}
